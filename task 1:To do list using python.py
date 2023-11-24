@@ -1,6 +1,5 @@
-"to do list app using python"
-"TASK 1"
-
+#To do list app using python
+#TASK 1
 
 
 import tkinter as tk
