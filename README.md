@@ -1,5 +1,5 @@
 # codsoft_taskno1
-task 1 :To do list app using python
+#task 1 :To do list app using python
 
 import tkinter as tk
 from tkinter import messagebox
